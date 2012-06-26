@@ -1,0 +1,23 @@
+{
+    "name": "ZendExperts/phpids",
+    "type": "library",
+    "description": "PHPIDS(Intrusion Detection System)(https://phpids.org/) mirror.",
+    "keywords": ["security", "phpids"],
+    "homepage": "https://github.com/ZendExperts/phpids",
+    "license": "LGPL",
+    "authors": [
+        {
+            "name": "Cosmin Harangus",
+            "homepage": "http://www.zendexperts.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.1.6"
+    },
+	"include-paths": ["lib/"],
+	"extra": {
+        "branch-alias": {
+            "dev-master": "0.7.x-dev"
+        }
+    }
+}
