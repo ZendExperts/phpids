@@ -1,5 +1,5 @@
 {
-    "name": "ZendExperts/phpids",
+    "name": "zendexperts/phpids",
     "type": "library",
     "description": "PHPIDS(Intrusion Detection System)(https://phpids.org/) mirror.",
     "keywords": ["security", "phpids"],
